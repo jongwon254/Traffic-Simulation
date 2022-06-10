@@ -14,7 +14,7 @@ Simulation to assess the impact of electric mobility on the utility grid.
 ## Functionality
 - Runs microscopic traffic simulation with EVs based on real mobility and charging patterns
 - Simulates the geographical area of a German city with distributed routes and charging stations
-- Traffic control interface outputs all charging events during simulation
+- Traffic control interface outputs all charging events during the simulation
 - Includes different scenarios and behaviors
 - Creates and plots power profiles based on charging data to assess the additional load of charging stations
 
