@@ -1,7 +1,7 @@
 ![simulation](https://user-images.githubusercontent.com/36485235/164883648-07a057da-b8f8-45d1-85e0-5d98d81afaed.png)
 
 # Traffic Simulation
-Simulation to assess the impact of electric mobility on the utility grid.
+EV traffic simulation to assess the impact of electric mobility on the distribution grid with real mobility patterns and power profiles.
 
 ## Technologies
 - Language: Python
