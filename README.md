@@ -1,7 +1,7 @@
 ![simulation](https://user-images.githubusercontent.com/36485235/164883648-07a057da-b8f8-45d1-85e0-5d98d81afaed.png)
 
 # EV Traffic/Charging Simulation
-EV traffic/charging simulation to assess the impact of electric mobility on the distribution grid with real mobility patterns and power profiles.
+EV traffic/charging simulation to assess the impact of electric mobility on the power grid with real mobility patterns and power profiles.
 
 ## Technologies
 - Language: Python
