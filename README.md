@@ -12,7 +12,7 @@ EV traffic/charging simulation to assess the impact of electric mobility on the 
 - Steps: Data Processing -> Simulation Setup -> Simulation Execution -> Evaluation of Power Profiles
 
 ## Functionality
-- Runs microscopic traffic simulation with EVs based on real mobility and charging patterns
+- Runs microscopic traffic simulation with EVs based on real mobility and charging patterns of a German city
 - Simulates the geographical area of a German city with distributed routes and charging stations
 - Traffic control interface outputs all charging events during the simulation
 - Includes different scenarios and behaviors
