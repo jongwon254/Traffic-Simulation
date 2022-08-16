@@ -5,10 +5,9 @@ EV traffic/charging simulation to assess the impact of electric mobility on the 
 
 ## Technologies
 - Language: Python
-- Built with Jupyter Notebook, XML, and scripts
-- Based on the open source package Simulation of Urban MObility (SUMO)
-- Mobility data from the German Mobility Panel (MOP) at KIT
-- Power profile assessment with pandas, NumPy, and Matplotlib
+- Built with Python Libraries (pandas, NumPy, and Matplotlib) and Scripts
+- Based on the Open Source Package: Simulation of Urban MObility (SUMO)
+- Data from the German Mobility Panel (MOP) at KIT
 - Steps: Data Processing -> Simulation Setup -> Simulation Execution -> Evaluation of Power Profiles
 
 ## Functionality
