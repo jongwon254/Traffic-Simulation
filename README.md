@@ -26,4 +26,4 @@ EV traffic/charging simulation to assess the impact of electric mobility on the 
 <img width="800" alt="profile" src="https://user-images.githubusercontent.com/36485235/164883886-b29b9058-b1d8-481e-ba75-e96c766495ff.png">
 
 ## More Info
-[Visit My Website](https://jongwonlee.dev/traffic-simulation)
+[Visit Website](https://jongwonlee.dev/traffic-simulation)
